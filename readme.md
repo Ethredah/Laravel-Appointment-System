@@ -9,7 +9,6 @@ The application demonstrates creating a new appointment, editing an existing app
 * Step 1 : 
 Configure Laravel 5.6
 
-<<<<<<< HEAD
 `composer create-project --prefer-dist laravel/laravel passportappointmentsystem`
 
 
@@ -84,27 +83,9 @@ _Create New Appointment_
 
 _Edit An Appointment_
 ![image](edit.png "Edit")
-=======
-`composer create-project --prefer-dist laravel/laravel nameofapplication`
 
 
-* Step 2 : 
-Configure Database in the .env file
 
-```sql
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=databasename
-DB_USERNAME=root
-DB_PASSWORD=
-```
-
-* Step 3 : 
-Migrate the two tables provided by Laravel and type the following command on terminal.
-
-`php artisan migrate`
->>>>>>> e7ae001c012245b714668c5951db8b89fe57c570
 
 ## License
 
