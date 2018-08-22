@@ -9,7 +9,7 @@ The application demonstrates creating a new appointment, editing an existing app
 * Step 1 : 
 Configure Laravel 5.6
 
-`composer create-project --prefer-dist laravel/laravel passportappointmentsystem`
+`composer create-project --prefer-dist laravel/laravel nameofapplication`
 
 
 * Step 2 : 
