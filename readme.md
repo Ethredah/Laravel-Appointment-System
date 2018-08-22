@@ -6,13 +6,13 @@ The application demonstrates creating a new appointment, editing an existing app
 
 ### Tutorial
 
-*Step 1 : 
+* Step 1 : 
 Configure Laravel 5.6
 
 `composer create-project --prefer-dist laravel/laravel passportappointmentsystem`
 
 
-*Step 2 : 
+* Step 2 : 
 Configure Database in the .env file
 
 ```sql
@@ -24,7 +24,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
-*Step 3 : 
+* Step 3 : 
 Migrate the two tables provided by Laravel and type the following command on terminal.
 
 `php artisan migrate`
