@@ -1,5 +1,3 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
 ## About 
 This is a simple passport appointment system build with the Laravel Web Framework.
 <br>
