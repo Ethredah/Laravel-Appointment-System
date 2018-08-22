@@ -27,8 +27,7 @@ DB_PASSWORD=
 >>Step 3 : 
 Migrate the two tables provided by Laravel and type the following command on terminal.
 
-```console php artisan migrate
-```
+```console php artisan migrate```
 
 ## License
 
