@@ -42,8 +42,7 @@ php artisan make:model Passport -m
 * Step 5 :
 Create a Schema for the passports table in the migration file : 
 
-`php
-public function up()
+`public function up()
     {
         Schema::create('passports', function (Blueprint $table) {
             $table->increments('id');
