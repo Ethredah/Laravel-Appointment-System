@@ -4,6 +4,27 @@ This is a simple passport appointment system build with the Laravel Web Framewor
 The application demonstrates creating a new appointment, editing an existing appointment, deleting appointment, reading/ viewing all appointments and pagination.
 
 
+## Quick Start
+
+* Download repository / clone.
+* Create a database to store the application data.
+* Modify the .env file and add your database details.
+* Cd to the project directory and serve `php artisan serve`
+
+_View All Appointments_
+![image](all.png "Read")
+
+
+_Create New Appointment_
+![image](create.png "Create")
+
+
+_Edit An Appointment_
+![image](edit.png "Edit")
+
+
+
+
 ### Tutorial
 
 * Step 1 : 
@@ -63,26 +84,6 @@ Migrate the table :
 * Step 6 : 
 Create Controller and Routes
 `Route::resource('passports','PassportController');`
-
-
-## Quick Start
-
-* Download repository / clone.
-* Create a database to store the application data.
-* Modify the .env file and add your database details.
-* Cd to the project directory and serve `php artisan serve`
-
-_View All Appointments_
-![image](all.png "Read")
-
-
-_Create New Appointment_
-![image](create.png "Create")
-
-
-_Edit An Appointment_
-![image](edit.png "Edit")
-
 
 
 
